@@ -7,5 +7,6 @@ checkExist = setInterval(function() {
     delete(checkExist);
   } else {
     // Do this if it doesn't exist
+    
   }
-}, 100); // check every 100ms
+}, 1000); // check every 1000ms (1 second)
