@@ -1,1 +1,1 @@
-document.getElementById("browser").innerText = 'browserNameHere';
+document.getElementById("browser").innerHTML = 'browserNameHere';
