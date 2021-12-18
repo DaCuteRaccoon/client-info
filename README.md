@@ -1,2 +1,2 @@
-# client-info
-Information about the client
+# Client Information
+Information about the client.
